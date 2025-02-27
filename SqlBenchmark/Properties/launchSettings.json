@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SqlBenchmark": {
+      "commandName": "Project",
+      "commandLineArgs": "--server=\"10.1.10.212\" --Database=\"PlayerManagement\" --IntegratedSecurity=\"false\" --UserID=\"sa\" --Password=\"IGT<@dm1n>\" "
+    }
+  }
+}
